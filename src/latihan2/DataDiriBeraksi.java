@@ -1,13 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package latihan2;
 
-/**
- *
- * @author Ardi
- */
 public class DataDiriBeraksi {
-    
+    public static void main(String[] args) {
+        DataDiri ardi = new DataDiri("Mardianto", "2310010259", "4B");
+    }
+ 
 }
